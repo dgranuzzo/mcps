@@ -1,3 +1,4 @@
+This example uses the filesystem MCP server, running locally via npx.
 
 Run it
 
